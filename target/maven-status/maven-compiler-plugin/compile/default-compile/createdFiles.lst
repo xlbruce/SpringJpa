@@ -1,0 +1,13 @@
+model/entities/Publisher.class
+model/entities/AnnoucePK.class
+model/entities/User.class
+model/entities/Announce.class
+model/entities/Author.class
+service/AuthorRepositoryServiceImpl.class
+model/entities/Book.class
+projeto/interdisciplinar/MackbookStoreServerApplication.class
+controller/AuthorController.class
+repository/AuthorRepository.class
+service/AuthorRepositoryService.class
+config/Config.class
+model/entities/UserType.class
